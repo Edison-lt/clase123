@@ -15,6 +15,8 @@ float suma, resta, multiplicacion, division;
     multiplicacion= n1*n2;
     division=n1/n2;
     cout<<"la suma es:"<<suma<<endl;
-    
+    cout<<"la resta es:"<<resta<<endl;
+    cout<<"la multiplicacion es:"<<multiplicacion<<endl;
+    cout<<"la division es:"<<division<<endl;
     return 0;
 }
