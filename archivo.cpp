@@ -4,7 +4,8 @@ using namespace std;
 
 int main() {
 float suma, resta, multiplicacion, division;
-
+cout<<"ingrese un numero: "; cin>>n1;
+cout<<"ingrese un numero:"; cin>>n2
 
 
 
